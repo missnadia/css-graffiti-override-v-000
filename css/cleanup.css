@@ -7,7 +7,7 @@ body #wall #tag-2 {
   display:none;
 }
 
-body #wall #tag-3 .slick {
+body #wall [id=slick] {
   display:none;
 }
 
